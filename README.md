@@ -1,7 +1,7 @@
 # Project Workflow Explanation
 In this project, I built an **ETL pipeline in Databricks** using the **medallion architecture (Bronze, Silver, Gold layers)**.
 
-<img width="800" height="575" alt="Screenshot 2025-09-13 222753" src="https://github.com/user-attachments/assets/914757a9-4211-411e-a24c-118c35bb5c2f" />
+<img width="10000" height="575" alt="Screenshot 2025-09-13 222753" src="https://github.com/user-attachments/assets/914757a9-4211-411e-a24c-118c35bb5c2f" />
 
 **1.Data Ingestion (Bronze Layer Notebook)**
 
