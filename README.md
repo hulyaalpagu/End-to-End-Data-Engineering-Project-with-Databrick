@@ -44,3 +44,6 @@ In this project, I built an **ETL pipeline in Databricks** using the **medallion
    Connected Databricks to Tableau.
 
    Built interactive dashboards and reports from the Gold Layer tables for stakeholders.
+
+   <img width="999" height="799" alt="Global Sales   Customer Insights Dashboard" src="https://github.com/user-attachments/assets/0d0bd1a5-c501-45ea-b557-cd3feeee153a" />
+
